@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d649156a-e4e0-4555-b2bd-bc18a5903bab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\ideaMaven\MavenRepository" />
+        <option name="mavenHome" value="E:/software/ideaMaven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\software\ideaMaven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aEslEvoJU8gJqaV4UeXA1UiIeo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis_plus_day03AR" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\mybatisplus\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MpTest.SelectPagetest">
+    <configuration name="MpTest.SelectPagetest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.MpTest" />
+      <option name="METHOD_NAME" value="SelectPagetest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpTest.testSelectByMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.MpTest" />
+      <option name="METHOD_NAME" value="testSelectByMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpTest.testSelectList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.MpTest" />
+      <option name="METHOD_NAME" value="testSelectList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpTest.testSelectid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.MpTest" />
+      <option name="METHOD_NAME" value="testSelectid" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpTest.testSelectone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis_plus_day01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.kgc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.kgc.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.kgc.test.MpTest" />
+      <option name="METHOD_NAME" value="testSelectone" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MpTest.SelectPagetest" />
+      <item itemvalue="JUnit.MpTest.testSelectByMap" />
+      <item itemvalue="JUnit.MpTest.testSelectid" />
+      <item itemvalue="JUnit.MpTest.testSelectList" />
+      <item itemvalue="JUnit.MpTest.testSelectone" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MpTest.testSelectid" />
+        <item itemvalue="JUnit.MpTest.testSelectList" />
+        <item itemvalue="JUnit.MpTest.SelectPagetest" />
+        <item itemvalue="JUnit.MpTest.testSelectByMap" />
+        <item itemvalue="JUnit.MpTest.testSelectone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d649156a-e4e0-4555-b2bd-bc18a5903bab" name="Default Changelist" comment="" />
+      <created>1586312236463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586312236463</updated>
+      <workItem from="1586312241026" duration="10118000" />
+      <workItem from="1586504129407" duration="275000" />
+      <workItem from="1586505766547" duration="1385000" />
+      <workItem from="1586507296542" duration="27000" />
+      <workItem from="1586507394567" duration="60000" />
+      <workItem from="1586729817641" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="364" key="#Inspections" timestamp="1586334231826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="364" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1586334231826" />
+    <state x="543" y="184" key="#MpTest.testSelectList" timestamp="1586506011758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="184" key="#MpTest.testSelectList/0.0.1920.1040@0.0.1920.1040" timestamp="1586506011758" />
+    <state x="543" y="184" key="#MpTest.testSelectid" timestamp="1586506410210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="184" key="#MpTest.testSelectid/0.0.1920.1040@0.0.1920.1040" timestamp="1586506410210" />
+    <state x="552" y="182" key="#Project_Structure" timestamp="1586312505460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586312505460" />
+    <state x="56" y="161" width="1092" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586729892293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="56" y="161" width="1092" height="733" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586729892293" />
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1586312993224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="239" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586312993224" />
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586729938266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586729938266" />
+    <state x="1203" y="278" key="FileChooserDialogImpl" timestamp="1586729960294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1203" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586729960294" />
+    <state width="1877" height="588" key="GridCell.Tab.0.bottom" timestamp="1586507232924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="588" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586507232924" />
+    <state width="1877" height="588" key="GridCell.Tab.0.center" timestamp="1586507232924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="588" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586507232924" />
+    <state width="1877" height="588" key="GridCell.Tab.0.left" timestamp="1586507232924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="588" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586507232924" />
+    <state width="1877" height="588" key="GridCell.Tab.0.right" timestamp="1586507232924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="588" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586507232924" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1586729925924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586729925924" />
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1586507403132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586507403132" />
+    <state x="658" y="421" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586729948968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="421" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1586729948968" />
+    <state x="334" y="224" key="new project wizard" timestamp="1586507450386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586507450386" />
+  </component>
+</project>
